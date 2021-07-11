@@ -2,3 +2,7 @@ Added some information here
 
 
 welcome
+
+Added new items today 11/7/2021
+
+Today i am going to study SQL concepts plus one angular 6 projects 
